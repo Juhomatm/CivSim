@@ -1,0 +1,9 @@
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\obj\Debug\CivSim.csprojResolveAssemblyReference.cache
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\bin\Debug\CivSim.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\bin\Debug\CivSim.pdb
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\bin\Debug\Common.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\bin\Debug\OpenTK.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\bin\Debug\RLNET.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\bin\Debug\Common.pdb
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\obj\Debug\CivSim.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSim\obj\Debug\CivSim.pdb

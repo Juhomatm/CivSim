@@ -1,0 +1,12 @@
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\obj\Debug\CivSimTests.csprojResolveAssemblyReference.cache
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\CivSimTests.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\CivSimTests.pdb
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\CivSim.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\Common.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\RLNET.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\OpenTK.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\CivSim.pdb
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\bin\Debug\Common.pdb
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\obj\Debug\CivSimTests.dll
+C:\Users\JM\Documents\Visual Studio 2015\Projects\ConsoleApplication1\CivSimTests\obj\Debug\CivSimTests.pdb

@@ -1,0 +1,10 @@
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\OpenTK.dll
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RLNET.dll
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RogueSharp.dll
+c:\users\jm\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RogueSharp.xml
